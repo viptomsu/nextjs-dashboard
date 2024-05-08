@@ -1,9 +1,8 @@
 const CustomerPage = () => {
   return (
-    <div>
+    <main>
       <h1>Customer Page</h1>
-      {/* Add your customer page content here */}
-    </div>
+    </main>
   );
 };
 
